@@ -11,3 +11,13 @@
 a{
     text-decoration:none;
 }
+
+body{
+    font:16px/24px Arial;
+    background: #333;
+}
+h1{
+    text-align: center;
+    font-size: 5em;
+    color:#fff;
+}
